@@ -28,4 +28,5 @@ All solutions are written in **Java**.
   - Rotate a Number
   - Swapping - all methods
   - Trailizing zeros
+  - Benjamin_bulbs
 
