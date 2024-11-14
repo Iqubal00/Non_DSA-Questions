@@ -5,6 +5,7 @@ Welcome to the **Non-DSA Questions** repository! This repository contains soluti
 
 The repository is organized into categories based on the type of problem or solution. Right now, it includes:
 - **Mathematics**: Solutions to mathematical problems like number theory, algebra, and geometry.
+- **Patterns**: Different types of patterns that helps you to think logically.
 
 Upcoming sections:
 - **Arrays**: Solutions to problems involving array manipulation and processing.
