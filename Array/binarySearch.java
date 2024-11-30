@@ -1,7 +1,6 @@
 public class binarySearch {
     public static boolean isFound(int[] arr, int key){
         int lower=0, upper=(arr.length-1),mid=0;
-        int pos=-1;
         
 
         while(lower<=upper){
@@ -11,7 +10,6 @@ public class binarySearch {
             else if(key<arr[mid])
             upper=mid-1;
             else{
-            pos=mid;
             return true;
             }
         }
