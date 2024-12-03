@@ -7,9 +7,6 @@ The repository is organized into categories based on the type of problem or solu
 - **Mathematics**: Solutions to mathematical problems like number theory, algebra, and geometry.
 - **Patterns**: These patterns are important to open your mind to think logically.
 
-Upcoming sections:
-- **Arrays**: Solutions to problems involving array manipulation and processing.
-- **Strings**: Solutions for various string operations, pattern matching, and related challenges.
 
 All solutions are written in **Java**.
 
@@ -32,9 +29,5 @@ All solutions are written in **Java**.
   - Benjamin_bulbs
 
 
-## 2. Arrays 
-  - Array Reverse
-  - Largest and Smallest Element
-  - Linear Search
-  - Binary Search
+
 
