@@ -31,3 +31,10 @@ All solutions are written in **Java**.
   - Trailizing zeros
   - Benjamin_bulbs
 
+
+## 2. Arrays 
+  - Array Reverse
+  - Largest and Smallest Element
+  - Linear Search
+  - Binary Search
+
